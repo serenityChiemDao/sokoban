@@ -1,0 +1,15 @@
+14 17
+O O O O O O O O O O O O O O O O O
+O O W W W W W W W O O O O O O O O
+O O W F F W F F W W W W W O O O O
+O W W F F W F F W S S S W W W O O
+O W F F B W F F W S S S F F W O O
+O W F B F W B B F S S S F F W O O
+O W F F B W F F W S S S F S W O O
+O W F F F W F B W W W W W W W W O
+O W W B F F F F F F F B F B F W O
+O W W F F W F F B B F W F F F W O
+O O W W W W W W F F W W B B P W O
+O O O O O O O W F F F F F F W W O
+O O O O O O O W W W W W W W W O O
+O O O O O O O O O O O O O O O O O

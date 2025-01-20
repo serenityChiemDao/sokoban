@@ -1,0 +1,7 @@
+6 7
+O W W W W W O
+O W P B S W O
+O W S B F W O
+O W W F F W O
+O O W F F W O
+O O W W W W O

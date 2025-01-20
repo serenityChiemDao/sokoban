@@ -1,0 +1,16 @@
+15 19
+O O O O O O O O O O O O O O O O O O O
+O W W W W W W W W W W W W W W W W O O
+O W F F F F F F F F F F F F F F W O O
+O W F W F W W W W W W F F F F F W O O
+O W F W F F B F B F B F B W F F W O O
+O W F W F F F B P B F F F W W F W W O
+O W F W F F B F B F B W W W S S S W O
+O W F W F F F B F B F F W W S S S W O
+O W F W W W B B B F B F W W S S S W O
+O W F F F F F W F W W F W W S S S W O
+O W W W W W F F F W W F W W S S S W O
+O O O O O W W W W W F F F F F W W W O
+O O O O O O O O O W F F F F F W O O O
+O O O O O O O O O W W W W W W W O O O
+O O O O O O O O O O O O O O O O O O O

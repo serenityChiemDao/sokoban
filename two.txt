@@ -1,0 +1,13 @@
+12 16
+O O O O O O O O O O O O O O O O
+O W W W W W W W W W W W W O O O
+O W S S F F W F F F F F W W W O
+O W S S F F W F B F F B F F W O
+O W S S F F W B W W W W F F W O
+O W S S F F F F P F W W F F W O
+O W S S F F W F W F F B F W W O
+O W W W W W W F W W B F B F W O
+O O O W F B F F B F B F B F W O
+O O O W F F F F W F F F F F W O
+O O O W W W W W W W W W W W W O
+O O O O O O O O O O O O O O O O
